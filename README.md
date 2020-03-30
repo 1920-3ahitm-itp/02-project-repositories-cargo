@@ -106,5 +106,5 @@ Dieses Repository umfasst alle wichtigen Infos sowie den Server und den Client f
 ### Good Job. You are done. Now restart your Raspberry Pi and get driving.
 
 
-PS.: Addition from 2016
+PS: Addition from 2016
 In the new pimped version you need to create a folder “/home/pi/music”. You also need to build the JARs yourself. The hostapd binary and the mjpg-streamer source code are under the folder “Other”.
